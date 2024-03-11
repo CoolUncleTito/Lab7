@@ -1,5 +1,5 @@
 ---
-title: "Lab 7 Quarto"
+title: "About"
 ---
 
 ![Microbial Water Color by MIchelle Banks](images/microbial_water_colors.jpg)
